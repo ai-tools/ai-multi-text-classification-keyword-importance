@@ -8,7 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+distilbert_model/
 build/
+model/
+backup/
 develop-eggs/
 dist/
 downloads/
